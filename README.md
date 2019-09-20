@@ -43,4 +43,4 @@
 * Mitko Vasilev, Georgi Tonchev - For the feedback during publication of the design files and DesignFirst's website
 
 ----
-# Learn more at [DesignFirst] (https://designfirst.eu) website
+# Learn more at [https://designfirst.eu](https://designfirst.eu).
